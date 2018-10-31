@@ -1,0 +1,7 @@
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Grand Circus Lab 14\CountingAlligatorsCloningSheep\CountingAlligatorsCloningSheep\bin\Debug\CountingAlligatorsCloningSheep.exe.config
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Grand Circus Lab 14\CountingAlligatorsCloningSheep\CountingAlligatorsCloningSheep\bin\Debug\CountingAlligatorsCloningSheep.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Grand Circus Lab 14\CountingAlligatorsCloningSheep\CountingAlligatorsCloningSheep\bin\Debug\CountingAlligatorsCloningSheep.pdb
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Grand Circus Lab 14\CountingAlligatorsCloningSheep\CountingAlligatorsCloningSheep\obj\Debug\CountingAlligatorsCloningSheep.csprojAssemblyReference.cache
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Grand Circus Lab 14\CountingAlligatorsCloningSheep\CountingAlligatorsCloningSheep\obj\Debug\CountingAlligatorsCloningSheep.csproj.CoreCompileInputs.cache
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Grand Circus Lab 14\CountingAlligatorsCloningSheep\CountingAlligatorsCloningSheep\obj\Debug\CountingAlligatorsCloningSheep.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Grand Circus Lab 14\CountingAlligatorsCloningSheep\CountingAlligatorsCloningSheep\obj\Debug\CountingAlligatorsCloningSheep.pdb
